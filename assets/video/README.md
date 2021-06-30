@@ -49,7 +49,7 @@ section__title
 Video Tour
 
 video__description
- 
+
 
 
 * PLACES
@@ -79,5 +79,6 @@ footer__copy
 
 footer__terms-link
 Terms & Agreements
+Privacy Policy
 
 
